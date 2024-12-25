@@ -1,4 +1,4 @@
-# Better-bind-key-getpos-bind-key-setpos
+# Better "bind <key> getpos | bind <key>" 
 Fixing valves spaghetti code.
 
 getpos teleports you into the air when you want to do a setpos later
